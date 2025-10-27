@@ -4,7 +4,6 @@
 Converted from Jupyter Notebook: notebook.ipynb
 Conversion Date: 2025-10-27T13:51:15.596Z
 """
-pip install matplotlib
 
 import numpy as np
 import pandas as pd
