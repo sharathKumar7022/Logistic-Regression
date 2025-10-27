@@ -9,7 +9,7 @@ Original file is located at
 
 import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
+"""import matplotlib.pyplot as pltdo"""
 import seaborn as sns
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score,roc_curve,roc_auc_score,auc
