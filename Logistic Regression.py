@@ -121,7 +121,7 @@ plt.title('ROC Curve Logistic Regression Model')
 plt.xlabel('ROC Curve of fpr')
 plt.ylabel('ROC Curve of tpr')
 
- import pickle
+import pickle
 
 file='my_model.pkl'
 
